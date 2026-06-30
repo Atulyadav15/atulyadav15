@@ -124,7 +124,7 @@ I'm a dedicated developer with a keen interest in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-profile)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/atul-yadav0015)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aty15112003@gmail.com)](mailto:aty15112003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
