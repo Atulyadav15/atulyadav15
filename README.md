@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=ATUL%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Learner&descAlignY=58"/>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+Developer;React+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
 
 </div>
@@ -132,18 +132,6 @@ Online FIR Registration & Tracking System
 
 ---
 
-# 💻 Currently Coding
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulyadav15&theme=react-dark&hide_border=true"/>
-
----
-
-# ⚡ Coding Quote
-
-> "Code is like humor. When you have to explain it, it's bad."
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -163,10 +151,13 @@ Online FIR Registration & Tracking System
 </p>
 
 ---
+<div align="center">
 
+### ⭐ Thanks for visiting my profile!
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Something+Amazing!"/>
 
-
+</div>
 
 
 <div align="center">
