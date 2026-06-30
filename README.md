@@ -147,6 +147,9 @@ Online FIR Registration & Tracking System
 <a href="https://github.com/Atulyadav15">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+<a href="https://www.instagram.com/_atul._15?igsh=Y2lwbnkwd3h5c3lh">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 
 </p>
 
